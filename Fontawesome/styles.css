@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.icon{
+    width:150px;
+    height: 150px;
+    background-color: tomato;
+    font-size:6rem;
+    text-align: center;
+    line-height: 150px;
+    color: white;
+    border-radius: 15px;
+}
